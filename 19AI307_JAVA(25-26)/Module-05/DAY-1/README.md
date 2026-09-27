@@ -28,8 +28,8 @@ To write a Java program to demonstrate chaining of streams using BufferedReader 
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: HEMA LOKITHA P
-RegisterNumber:  212223110014
+Developed by: GOWTHAM N
+Reg. No.: 212223100008
 */
 ```
 
